@@ -9,4 +9,4 @@
             <div class="living_space">86</div>
             <div class="floors">2</div>
         </div>
-</div class>
+</div class="home whiteframe">

@@ -1,8 +1,6 @@
 # DataBaseHTML
  <div class="home whiteframe">
-            <a class="url" href="kirpich.archimeta.ru/#rust">
-                <img class="image" src="kirpich.archimeta.ru/thmb/rust/rust_vid-1.jpg"/>
-            </a>
+            
             <div class="name">
             </div>
             <div class="style">неоклассицизм</div>

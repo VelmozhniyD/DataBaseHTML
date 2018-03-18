@@ -1,0 +1,7 @@
+<select id="style" onchange="filter_changed()">
+            <option value="">Стиль:</option>
+            <option>неоклассицизм</option>
+            <option>постмодерн</option>
+            <option>псевдомодерн</option>
+            <option>неоготика</option>
+ </select>
